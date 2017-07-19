@@ -1,6 +1,6 @@
 # Rails-react
 
-My first app on react-rails experimentation. T
+My first app on react-rails experimentation.
 
 ## Running
 
