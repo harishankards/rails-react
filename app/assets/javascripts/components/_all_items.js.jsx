@@ -1,7 +1,4 @@
 var AllItems = React.createClass({
-
-	
-
 	render(){
 		var items = this.props.items.map((item) => {
 			return(
